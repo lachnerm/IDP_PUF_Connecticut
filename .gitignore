@@ -1,0 +1,13 @@
+ANNs/runs/
+ANNs/results_smooth
+/venv/
+/data/
+.idea/
+result*
+results
+*.png
+*.ckpt
+data
+*.jpg
+*.png
+*.out
